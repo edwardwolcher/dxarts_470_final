@@ -68,12 +68,19 @@ This is a big project! All three elements are core to my ultimate concept, but a
 I am also somewhat concerned about causing offense by working with material that is so sensitive and comes from a variety of cultural traditions. All the theological elements in the piece are based on practices I am deeply familiar with but they will be involved in a semi-ironic decontextualization that may be seen as blasphemous or disrespectful. As the piece develops I want to proceed with due caution and consideration, and may want to speak with religious practitioners from relevant traditions to provide some element of sensitivity reading to the piece, especially the performance component. 
 
 [^1]: [https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God](https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God)
+
 [^2]: ["Robot priests can bless you, advise you, and even perform your funeral", by Sigal Samuel, vox.com 1/13/2020](https://www.vox.com/future-perfect/2019/9/9/20851753/ai-religion-robot-priest-mindar-buddhism-christianity)
+
 [^3]: [This is exmplified well by this clip by Darren Aranofsky's 1998 film "Pi"](https://www.youtube.com/watch?v=3vi7043z6tI) 
+
 [^4]: ["Tech Billionaires Want to Destroy the Universe" by Sam Kriss, The Atlantic, 10/13/2016](https://www.theatlantic.com/technology/archive/2016/10/silicon-valley-is-obsessed-with-a-false-notion-of-reality/503963/)
+
 [^5]: [https://en.wikipedia.org/wiki/Prayer_wheel#Electric_dharma_wheels](https://en.wikipedia.org/wiki/Prayer_wheel#Electric_dharma_wheels)
+
 [^6]: ["Sufi Whirling Dervishes", PBS, 12/13/2013](https://www.pbs.org/wnet/religionandethics/2013/12/13/february-1-2013-sufi-whirling-dervishes/14517/)
+
 [^7]: [One Potential product, if building the platforms is infeasible](https://www.bhphotovideo.com/c/product/1446505-REG/edelkrone_82061_product_turntable_for_tilt.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=CjwKCAjwgISIBhBfEiwALE19SWZKrN1CyZXbBEZNr71RAUjOVPmIO_thos5l56MNJuBRqaB5OGqN6xoCqEQQAvD_BwE) 
+
 [^8]: [Adafruit thermal printer](https://www.adafruit.com/category/205) 
 
 [^9]: [These plotters from AxiDraw are likely good options](https://axidraw.com)
