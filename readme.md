@@ -67,7 +67,7 @@ This is a big project! All three elements are core to my ultimate concept, but a
 
 I am also somewhat concerned about causing offense by working with material that is so sensitive and comes from a variety of cultural traditions. All the theological elements in the piece are based on practices I am deeply familiar with but they will be involved in a semi-ironic decontextualization that may be seen as blasphemous or disrespectful. As the piece develops I want to proceed with due caution and consideration, and may want to speak with religious practitioners from relevant traditions to provide some element of sensitivity reading to the piece, especially the performance component. 
 
-[^1]: [https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God](https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God)
+[^1]: ["The Nine Billion Names of God", Arthur C. Clarke](https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God)
 
 [^2]: ["Robot priests can bless you, advise you, and even perform your funeral", by Sigal Samuel, vox.com 1/13/2020](https://www.vox.com/future-perfect/2019/9/9/20851753/ai-religion-robot-priest-mindar-buddhism-christianity)
 
